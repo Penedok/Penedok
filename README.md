@@ -11,12 +11,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/penedok/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PenedoKaren)<br>
 <br>
-<br>
-##Tecnologias que uso no meu cotidiano.
-<br>
- 
 
 
-<br>
 
-![Penedok GitHub stats](https://github-readme-stats.vercel.app/api?username=penedok&show_icons=true&theme=synthwave)
