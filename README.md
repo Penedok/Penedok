@@ -1,4 +1,4 @@
-### Olá ! Eu sou a Karen Penedo 🙋‍♀️
+### Olá! Eu sou a Karen Penedo 🙋‍♀️
 <br>
 ❤️ Sou uma desenvolvedora apaixonada FrontEnd. <br>
 💬 Pergute-me sobre qualquer dúvida nas redes 
