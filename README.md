@@ -1,6 +1,8 @@
 ### Olá! Eu sou a Karen Penedo 🙋‍♀️
 <br>
-❤️ Sou uma desenvolvedora apaixonada FrontEnd. <br>
+❤️ Sou uma desenvolvedora apaixonada FrontEnd, estou em constantemente me atualizando e aprendendo sobre HTML | CSS | JavaScript e React
+    Me encontrei a um ano no mundo da programação e desde então nunca mais sair e nem quero!
+    Seguindo e buscando o 1% todo dia para que eu conquiste os meus 100% para que eu seja uma grande profissional.
 💬 Pergute-me sobre qualquer dúvida nas redes 
 
 <br>
