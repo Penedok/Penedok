@@ -6,6 +6,14 @@
 <br>
 <br>
 
+<div>
+  <a href="https://github.com/marquesflavio">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=marquesflavio&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+    
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marquesflavio&layout=compact&langs_count=7&theme=react" />
+    
+</div>
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karen-penedo-%F0%9F%8C%88-a24006144/)
 [![Codepen](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](penedok12@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/penedok/)
