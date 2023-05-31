@@ -15,10 +15,10 @@
 <br>
 
 <div>
-  <a href="https://github.com/Penedok">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=penedok&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=penedok&layout=compact&langs_count=7&theme=react" />
+   ![Penedok Github stats](https://github-readme-stats.vercel.app/api?username=penedok&show_icons=true&theme=react&include_all_commits=true&count_private=true")
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=penedok&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
     
 </div>
   <br>
