@@ -2,7 +2,7 @@
 <br>
 ❤️ Uma desenvolvedora apaixonada FrontEnd, estou em constantemente me atualizando e aprendendo sobre HTML | CSS | JavaScript e React.<br>
     Me encontrei a um ano no mundo da programação e desde então nunca mais sair e nem quero!<br>
-    Seguindo e buscando o 1% todo dia para que eu conquiste os meus 100% e seja uma grande profissional na área. <br>
+    Seguindo e buscando o 1% todo dia para que eu conquiste os meus objetivose seja uma grande profissional na área. <br>
 💬 Pergute-me sobre qualquer dúvida nas redes 
 
 <br>
