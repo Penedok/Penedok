@@ -1,4 +1,4 @@
-### Olá! Eu sou a Karen Penedo 🙋‍♀️
+### Olá! Eu sou a Karen Penedo 👩🏽‍💻
 <br>
     Desenvolvedora FrontEnd, me encontrei na área da programação á 1 ano e estou constantemente estudando e aprendendo. <br>
     Seguindo e buscando o meu melhor todo dia para que eu conquiste os meus objetivos e ser uma grande profissional na área. <br>
