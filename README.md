@@ -3,7 +3,7 @@
     Desenvolvedora FrontEnd, me encontrei na área da programação á 1 ano e estou constantemente estudando e aprendendo. <br>
     Seguindo e buscando o meu melhor todo dia para que eu conquiste os meus objetivos e ser uma grande profissional na área. <br>
     <br>
-    Pergute-me sobre qualquer dúvida nas redes 🤓 💬
+    Pergute-me sobre qualquer dúvida nas redes...🤓 💬
 
 <br>
 
